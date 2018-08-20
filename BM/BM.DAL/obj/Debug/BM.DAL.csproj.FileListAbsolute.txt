@@ -1,0 +1,17 @@
+c:\Users\abhi.rr\source\repos\BM\BM.DAL\obj\Debug\BM.DAL.csproj.CoreCompileInputs.cache
+c:\Users\abhi.rr\source\repos\BM\BM.DAL\bin\Debug\BM.DAL.dll.config
+c:\Users\abhi.rr\source\repos\BM\BM.DAL\bin\Debug\BM.DAL.dll
+c:\Users\abhi.rr\source\repos\BM\BM.DAL\bin\Debug\BM.DAL.pdb
+c:\Users\abhi.rr\source\repos\BM\BM.DAL\bin\Debug\DnsClient.dll
+c:\Users\abhi.rr\source\repos\BM\BM.DAL\bin\Debug\MongoDB.Bson.dll
+c:\Users\abhi.rr\source\repos\BM\BM.DAL\bin\Debug\MongoDB.Driver.Core.dll
+c:\Users\abhi.rr\source\repos\BM\BM.DAL\bin\Debug\MongoDB.Driver.dll
+c:\Users\abhi.rr\source\repos\BM\BM.DAL\bin\Debug\System.Buffers.dll
+c:\Users\abhi.rr\source\repos\BM\BM.DAL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\Users\abhi.rr\source\repos\BM\BM.DAL\bin\Debug\DnsClient.xml
+c:\Users\abhi.rr\source\repos\BM\BM.DAL\bin\Debug\MongoDB.Bson.xml
+c:\Users\abhi.rr\source\repos\BM\BM.DAL\bin\Debug\MongoDB.Driver.xml
+c:\Users\abhi.rr\source\repos\BM\BM.DAL\bin\Debug\MongoDB.Driver.Core.xml
+c:\Users\abhi.rr\source\repos\BM\BM.DAL\obj\Debug\BM.DAL.csprojResolveAssemblyReference.cache
+c:\Users\abhi.rr\source\repos\BM\BM.DAL\obj\Debug\BM.DAL.dll
+c:\Users\abhi.rr\source\repos\BM\BM.DAL\obj\Debug\BM.DAL.pdb
